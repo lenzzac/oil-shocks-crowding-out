@@ -1,0 +1,102 @@
+name,region,GDP,GDP Growth,Interest Rate,Inflation Rate,Debt/GDP,Current Account
+Tunisia,Africa,53,1.8,7.5,5.3,79.8,-2.7
+Vietnam,Asia,476,6.88,4.5,3.19,32.9,6.1
+Ecuador,Americas,125,3.46,8.5,0.72,50.6,2.8
+United States,Americas,29185,3.0,4.5,2.7,124.3,-3.9
+Israel,Asia,540,0.9,4.5,3.1,69.0,3.2
+United Kingdom,Europe,3644,0.3,4.0,3.8,95.9,-2.7
+Poland,Europe,915,0.8,5.0,3.1,55.3,0.0
+Kenya,Africa,125,0.8,9.5,4.1,65.5,-3.6
+Angola,Africa,80,2.3,19.5,19.48,58.2,5.4
+Malta,Europe,24,2.1,2.15,2.5,47.4,5.7
+Russia,Europe,2174,-0.8,18.0,8.8,16.65,2.9
+Mozambique,Africa,22,2.0,10.25,3.96,76.9,-11.1
+South Africa,Africa,400,0.1,7.0,3.5,76.9,-0.6
+Rwanda,Africa,14,-1.0,6.75,7.2,67.2,-12.0
+Belgium,Europe,665,0.2,2.15,1.92,104.7,-0.9
+Spain,Europe,1723,0.7,2.15,2.7,101.8,3.1
+Thailand,Asia,526,0.6,1.505,-0.505,63.7,1.4
+Turkey,Asia,1323,1.0,28.25,29.19,24.7,-0.8
+Philippines,Asia,462,1.5,5.25,0.9,60.7,-3.8
+Slovenia,Europe,72,0.7,2.15,2.8,67.0,4.4
+United Arab Emirates,Asia,537,2.0,4.4,2.88,32.1,9.3
+Greece,Europe,257,0.0,2.15,3.1,153.6,-6.4
+Costa Rica,Americas,95,0.2,3.75,-0.505,74.18,-1.4
+Tanzania,Africa,79,1.5,5.75,3.3,48.2,-2.5
+Mongolia,Asia,24,6.1,12.0,8.1,33.0,-6.9
+Moldova,Europe,18,1.1,6.25,7.9,34.6,-11.9
+New Zealand,Oceania,260,0.8,3.0,2.7,45.2,-5.7
+India,Asia,3913,2.0,5.5,1.55,81.59,-0.6
+South Korea,Asia,1713,0.6,2.5,2.1,46.8,5.3
+Serbia,Europe,89,-0.6,5.75,4.9,47.2,-6.3
+Algeria,Africa,264,8.845,3.0,-0.22,46.2,1.3
+Cameroon,Africa,51,2.7,4.5,3.3,42.7,-3.2
+Finland,Europe,300,0.0,2.15,0.2,82.1,0.0
+Bolivia,Americas,50,7.89,4.05,24.86,95.0,-2.7
+Lesotho,Africa,2,-0.47,7.0,4.3,60.0,-0.4
+Hungary,Europe,223,0.4,6.5,4.3,73.5,2.2
+Norway,Europe,484,0.8,4.25,3.3,55.1,16.7
+Peru,Americas,289,0.6,4.5,1.69,32.8,2.2
+Lithuania,Europe,85,0.2,2.15,3.8,38.2,1.9
+Mauritius,Africa,15,0.9,4.5,5.2,82.1,-4.2
+Saudi Arabia,Asia,1238,2.1,5.0,2.1,29.9,5.9
+Slovakia,Europe,142,0.1,2.15,4.4,59.3,-2.8
+Cape Verde,Africa,3,-3.0,2.5,2.7,109.2,-5.8
+Sweden,Europe,610,0.1,2.0,0.8,33.5,6.0
+Bangladesh,Asia,450,5.82,10.0,8.55,31.7,-1.4
+Taiwan,Asia,757,3.05,2.0,1.54,28.2,15.7
+Italy,Europe,2373,-0.1,2.15,1.7,135.3,1.1
+Chile,Americas,330,0.4,4.75,4.3,41.7,-1.5
+Senegal,Africa,32,-1.2,5.25,1.8,56.1,-12.0
+Romania,Europe,383,1.2,6.5,7.84,54.8,-7.5
+Brazil,Americas,2179,1.4,15.0,5.23,76.5,-2.55
+Estonia,Europe,43,-0.3,2.15,5.4,23.6,-1.1
+Dominican Republic,Americas,124,-0.5,5.75,3.4,57.57,-3.4
+Canada,Americas,2241,0.5,2.75,1.7,110.8,-1.0
+Paraguay,Americas,44,3.3,6.0,4.3,45.2,-3.9
+Kazakhstan,Asia,288,1.26,16.5,11.8,23.7,1.3
+Indonesia,Asia,1396,4.04,5.0,2.37,38.8,-0.63
+Luxembourg,Europe,93,-1.0,2.15,2.3,26.3,6.9
+Bulgaria,Europe,112,0.7,1.82,5.3,24.1,-1.0
+Honduras,Americas,37,1.7,5.75,4.41,39.8,-4.6
+Uruguay,Americas,81,0.6,8.75,4.53,70.3,-3.3
+Botswana,Africa,19,-0.1,1.9,1.1,24.9,-7.3
+Albania,Europe,27,0.7,2.5,2.5,54.7,-2.4
+Nigeria,Africa,188,8.845,27.5,21.88,52.9,-0.5
+Cyprus,Europe,36,0.5,2.15,-0.505,65.0,-8.4
+Portugal,Europe,309,0.6,2.15,2.6,94.9,2.2
+China,Asia,18744,1.1,3.0,0.0,88.3,2.2
+Singapore,Asia,547,1.4,1.51,0.8,158.95,17.299999999999997
+Denmark,Europe,429,1.3,1.6,2.3,31.1,12.1
+Ghana,Africa,83,1.4,25.0,12.1,70.5,4.4
+Hong Kong,Asia,407,0.4,4.75,1.0,16.65,11.5
+Venezuela,Americas,112,-3.0949999999999998,28.25,29.19,158.95,4.1
+Ukraine,Europe,191,0.2,15.5,14.1,89.8,-8.1
+Latvia,Europe,44,-0.1,2.15,3.8,46.8,-2.1
+Germany,Europe,4660,-0.3,2.15,2.0,62.5,5.7
+Croatia,Europe,93,0.3,2.15,4.1,57.7,-1.2
+Bosnia and Herzegovina,Europe,28,0.5,4.66,4.6,16.9,-4.0
+Qatar,Asia,218,0.3,5.1,-0.08,40.8,17.299999999999997
+Pakistan,Asia,373,5.79,11.0,4.1,80.0,-0.5
+Bahrain,Asia,48,-3.0949999999999998,5.25,-0.4,134.0,5.3
+Austria,Europe,522,0.1,2.15,3.6,81.8,2.4
+France,Europe,3162,0.3,2.15,1.0,113.0,0.4
+El Salvador,Americas,35,-0.58,5.38,-0.14,61.13,-1.8
+Namibia,Africa,13,-3.0949999999999998,6.75,3.5,65.3,-12.0
+Australia,Oceania,1752,0.2,3.6,2.1,43.8,-2.1
+Morocco,Africa,154,1.1,2.25,0.5,70.0,-2.8
+Ireland,Europe,577,-1.0,2.15,1.7,40.9,17.2
+Switzerland,Europe,937,0.1,1.505,0.2,37.6,5.1
+Iceland,Europe,33,2.7,7.5,4.0,59.3,-2.7
+Japan,Asia,4026,0.3,1.505,3.1,158.95,4.7
+Netherlands,Europe,1228,0.1,2.15,2.9,43.7,9.1
+Uganda,Africa,54,3.7,9.75,3.8,51.8,-9.21
+Argentina,Americas,633,0.8,28.25,29.19,83.2,0.6
+Egypt,Africa,389,8.845,24.0,13.9,82.9,-5.3
+Kuwait,Asia,160,4.7,4.0,2.39,16.65,17.299999999999997
+Sri Lanka,Asia,99,1.4,7.75,-0.3,96.1,1.2
+Trinidad and Tobago,Americas,26,2.6,3.5,1.5,56.1,6.6
+Colombia,Americas,419,0.5,9.25,4.9,61.3,-1.8
+Mexico,Americas,1853,0.6,7.75,3.51,49.7,-0.8
+Malaysia,Asia,422,2.1,2.75,1.2,70.4,1.7
+Jamaica,Americas,20,0.8,5.75,3.3,67.9,1.3
